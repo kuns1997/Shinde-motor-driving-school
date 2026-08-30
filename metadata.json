@@ -1,0 +1,6 @@
+{
+  "name": "Shinde Motor Driving School",
+  "description": "Comprehensive driving school management dashboard for customer registrations, batch tracking, fee collections, insurance compliance, and staff operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
