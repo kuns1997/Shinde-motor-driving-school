@@ -1,0 +1,17 @@
+{
+  "tasks": {
+    "lint": "deno lint",
+    "lint:fix": "deno lint --fix"
+  },
+  "imports": {},
+  "lint": {
+    "rules": {
+      "tags": ["recommended"],
+      "exclude": [
+        "no-explicit-any",
+        "no-unused-vars",
+        "no-empty-interface"
+      ]
+    }
+  }
+}
